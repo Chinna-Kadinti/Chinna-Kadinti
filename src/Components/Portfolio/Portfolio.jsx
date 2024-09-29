@@ -1,11 +1,11 @@
 import React, { useContext } from "react";
 import "./Portfolio.css";
 import { Swiper, SwiperSlide } from "swiper/react";
-import Sidebar from "../../img/sidebar.png";
+// import Sidebaom "../../img/sidebar.png";
 import Ecommerce from "../../img/Ecommerce (2).png";
-import HOC from "../../img/hoc.png";
+// import HOC from "../../img/hoc.png";
 import Redux1 from "../../img/ReduxImg.jpg";
-import MusicApp from "../../img/musicapp.png";
+// import MusicApp from "../../img/musicapp.png";
 import Youtube from "../../img/Ytclone.jpg";
 import Netflix from "../../img/Netflix.jpg";
 import "swiper/css";
